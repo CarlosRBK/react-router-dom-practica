@@ -5,7 +5,7 @@ Practica de ruteo con react-router-dom.
 
 Requisitos:
 
-npm i react-router-dom
+npm install
 
 Descripción:
 
